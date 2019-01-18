@@ -1,0 +1,22 @@
+first table:
+	patient.txt
+
+properties:
+	age: xx-xx
+	gender: Male[M], Famale[F]
+	#ethnicity: strings
+	hospitaldischargestatus: Death[D], Alive[A]
+
+
+
+second table:
+	diagnosis.txt
+
+properties:
+	icd9code: code strings(delete space)
+
+
+
+patientunitstayid.
+
+select all datas where `patientunitstayid` = $patientunitstayid;
